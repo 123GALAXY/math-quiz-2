@@ -1,0 +1,33 @@
+#output{
+    background: white;
+    border-radius:10px;
+    border-top:10px solid #ea9b6a;
+    padding: 10px;
+    float:none ;
+    text-align: screenLeft;
+}
+body{
+    text-align: center;
+    background-color: #286f6f ;
+}
+h1 {
+    font-family: 'Festive', cursive;
+    color:#ea9b6a;
+    font-size: 50px;
+}
+#heading_1,#heading_2{
+    font-size: 30px;
+    color: 3gbbaa;
+    font-family: 'Rampart One', cursive;
+ }
+ #numberinput_1,#number2_input{
+    font-size: larger;
+    width: 500px
+    }
+    #b11{
+        font-size: 30px;
+        background-color: #d7e2e8;
+        color: 286f6f;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+     }
+

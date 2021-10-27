@@ -1,0 +1,31 @@
+h1 {
+    font-family: 'Festive', cursive;
+    color:#ea9b6a;
+    font-size: 100px;
+}
+body{
+    text-align: center;
+    background-color: #286f6f ;
+}
+#d1,#d2{
+    background-color:white;
+    width: 60%;
+    float: none;
+    font-size: large;
+    border-radius: 20px;
+    font-family: 'Secular One', sans-serif;
+    color: #0d4442;
+}
+#l1,#l2{
+font-size: larger;
+}
+#b1{
+   font-size: 30px;
+   background-color: #d7e2e8;
+   color: 286f6f;
+   font-family: 'Henny Penny', cursive;
+}
+#i1,#i2{
+    font-size: large;
+    font-family: 'Secular One', sans-serif;
+}
